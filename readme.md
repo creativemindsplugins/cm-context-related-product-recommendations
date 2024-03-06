@@ -28,10 +28,10 @@ The [Premium edition of the Product Recommendation Plugin](https://www.cminds.co
 
 <details><summary> <b>Expand</b> </summary>
 
-* **Contextual Product Suggestions** – Display products that align with the content’s theme.
-* **Affiliate Earnings** – Endorse third-party products and earn commissions.
-* **Direct Product Promotion** – Easily market your merchandise in your blog entries.
-* **Performance Analytics** – Access detailed metrics on product effectiveness.
+* **Contextual Product Suggestions**: Display products that align with the content’s theme.
+* **Affiliate Earnings**: Endorse third-party products and earn commissions.
+* **Direct Product Promotion**: Easily market your merchandise in your blog entries.
+* **Performance Analytics**: Access detailed metrics on product effectiveness.
 
 </details>
 
