@@ -60,7 +60,7 @@ The [Premium edition of the Product Recommendation Plugin](https://www.cminds.co
 * Transfer products between websites.
 * Compatible with custom post types.
 * Personalize the style of the product recommendation widget.
-* Select from two designs: a sleek slider or a traditional table.
+* Select from two designs: a slider or a table.
 * Provide a description for each product.
 * Assign priority to certain products with weight.
 * Generate reports and analyze product performance.
